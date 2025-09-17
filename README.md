@@ -27,6 +27,5 @@ The objective of this project is to analyze hotel booking data to understand pat
   ## Dashboard
   <img width="1322" height="462" alt="HotelBooking " src="https://github.com/user-attachments/assets/cf16079a-4ef4-4a19-a6db-42831baccd25" />
   ## Final Conclussion
-  - The project shows that many hotel bookings get canceled, and factors like lead time, deposit type, and booking channel strongly affect cancellations.
-By predicting cancellations, hotels can reduce revenue loss and improve planning.
+  - Hotel booking analysis shows that lead time, deposit type, and booking channel are the main drivers of cancellations. By predicting cancellations in advance, hotels can minimize  revenue loss and improve resource planning.
 
