@@ -1,2 +1,3 @@
-# Data-Analysis-Dashboard-Hotel-Booking-and-Cancelation-Data-Set
-This repository contains data on hotel reservations and cancellations collected from a city hotel and a resort hotel between July 2015 and August 2017. Each row corresponds to a single booking and provides details about the reservation process, guest demographics, stay duration, pricing, booking channels, and whether the booking was canceled.
+# Hotel Booking and Cancellation (interactive DashBoard Creation using MS excel)
+## Project Objectives
+The objective of this project is to analyze hotel booking data to understand patterns of reservations and cancellations, and to develop predictive models that can forecast the likelihood of a booking being canceled.
