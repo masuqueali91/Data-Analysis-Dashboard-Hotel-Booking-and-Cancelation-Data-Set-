@@ -1,0 +1,2 @@
+# Data-Analysis-Dashboard-Hotel-Booking-and-Cancelation-Data-Set-
+This repository contains data on hotel reservations and cancellations collected from a city hotel and a resort hotel between July 2015 and August 2017. Each row corresponds to a single booking and provides details about the reservation process, guest demographics, stay duration, pricing, booking channels, and whether the booking was canceled.
